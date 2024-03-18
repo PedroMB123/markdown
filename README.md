@@ -1,7 +1,6 @@
-# markdown
+#Informações
+Nome: Pedro
 
-Teste de linha
+Email: magrinpedro@gmail.com
 
-## Arquivo exemplo de markdown -Título nível 2
-
-### Arquivo exemplo de markdown -Título nível 3
+CT Desevolvimento de Sistemas - Turma I1HN - SESI Nova Odessa
